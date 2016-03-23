@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300);
+
+#logo{
+    width: 100%;
+}
+
+body { 
+  background: url(img/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header{
+    font-family: 'Lobster', cursive;
+    font-size: 60pt;
+    color: white;
+    text-shadow: 4px 4px rgba(0,0,0,.6);
+}
+.tagline{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-shadow: 2px 2px rgba(0,0,0,.6);
+}
+.center{
+    width: 100%;
+    text-align: center;
+}
+.full-height{
+    min-height: 100vh;
+    padding-top: 50px;
+}
+.white{
+    background-color: rgba(256,256,256,0.8);
+    color: black;
+}
+.pad{
+    padding: 15px;
+}
+#logo{
+    max-width: 200px;
+}
+#app{
+    width: 100%;
+}
+#badge{
+    width: 100%;
+    max-width: 200px;
+}
+#footer{
+    color: white;
+}
+
+/*
+PHOTOSHOP INFO:
+UI KIT: http://www.bypeople.com/sepia-material-design-ui-psd-kit/
+*/
